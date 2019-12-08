@@ -1,0 +1,4 @@
+global_chr.s3d
+global2_chr.s3d
+global3_chr.s3d
+global4_chr.s3d

@@ -1,0 +1,50 @@
+{
+    "inputDir": "X:\\EQCLIENT",
+    "outputDir": "C:\\Users\\Phil\\Desktop\\EQ++\\EQLab\\files",
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "sanchez88",
+        "database": "nostalgia_eq"
+    },
+    "WLD": {
+        "load": {
+            "f03": true,
+            "f04": true,
+            "f05": true,
+            "f06": false,
+            "f07": false,
+            "f08": true,
+            "f09": true,
+            "f10": true,
+            "f11": true,
+            "f12": true,
+            "f13": true,
+            "f14": true,
+            "f15": true,
+            "f16": true,
+            "f17": true,
+            "f18": true,
+            "f1B": true,
+            "f1C": true,
+            "f21": false,
+            "f22": false,
+            "f26": true,
+            "f28": true,
+            "f29": false,
+            "f2A": false,
+            "f2C": false,
+            "f2D": true,
+            "f2F": false,
+            "f30": true,
+            "f31": true,
+            "f32": true,
+            "f33": true,
+            "f34": true,
+            "f35": true,
+            "f36": true,
+            "f37": false
+        }
+    }
+}
