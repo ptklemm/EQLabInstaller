@@ -11,7 +11,7 @@
     "fs-extra": "^7.0.1",
     "inquirer": "^6.2.0",
     "jimp": "^0.6.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mysql2": "^1.6.4",
     "node-lame": "^1.2.0",
     "progress": "^2.0.1",
